@@ -1,0 +1,10 @@
+.projects {
+    text-align: left;
+}
+
+.projects h1 {
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 79.88px;
+}
