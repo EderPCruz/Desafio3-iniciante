@@ -1,5 +1,5 @@
 import style from './Footer.module.css'
-import { FaInstagram, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FiInstagram, FiGithub, FiLinkedin } from "react-icons/fi";
 
 function Footer () {
     return(
@@ -7,14 +7,14 @@ function Footer () {
                     
             <ul>
                 <li>
-                   <a href='https://www.instagram.com/'><FaInstagram size={30}/></a> 
+                   <a href='https://www.instagram.com/'><FiInstagram size={30}/></a> 
                 </li>
                 <li>
-                <a href='https://github.com/'><FaGithub size={30}/></a>
+                <a href='https://github.com/'><FiGithub size={30}/></a>
                 </li>
                 <li>
-                    <a href='https://www.linkedin.com/'><FaLinkedin size={30}/></a>
-                </li>
+                    <a href='https://www.linkedin.com/'><FiLinkedin size={30}/></a>
+                </li>                
             </ul>
             <p>ederpaulinodacruz@yahoo.com.br</p>
             <p>Éder P. Cruz © 2024</p>
