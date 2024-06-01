@@ -6,6 +6,8 @@
 
 .card img {
     width: 455px;
+    height: 260px;
+    border-radius: 10px;
     transition-duration: 0.5s;
 }
 

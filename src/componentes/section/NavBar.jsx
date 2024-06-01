@@ -19,13 +19,13 @@ function NavBar () {
 
             <ul>
                 <li>
-                   <a href='https://www.instagram.com/'><FaInstagram size={30}/></a> 
+                   <a href='https://www.instagram.com/ederpaulinodacruz/'><FaInstagram size={30}/></a> 
                 </li>
                 <li>
-                <a href='https://github.com/'><FaGithub size={30}/></a>
+                <a href='https://github.com/EderPCruz'><FaGithub size={30}/></a>
                 </li>
                 <li>
-                    <a href='https://www.linkedin.com/'><FaLinkedin size={30}/></a>
+                    <a href='https://www.linkedin.com/in/%C3%A9der-paulino-da-cruz/'><FaLinkedin size={30}/></a>
                 </li>
             </ul>            
         </div>

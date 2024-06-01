@@ -41,9 +41,9 @@ function Presentation () {
             <h1>Olá, eu sou {text}</h1>
             <p>Sou um apaixonado por tecnologia e soluções inovadoras.Como <br/>
                Product Manager, eu tenho o compromisso de resolver <br/>
-               problemascomplexos e trazer resultados excepcionais para os <br/>
+               problemas complexos e trazer resultados excepcionais para os <br/>
                negócios.Meus projetos já geraram milhões de reais em receita <br/>
-               anualestou sempre em busca de novos desafios para superar.
+               anual, estou sempre em busca de novos desafios para superar.
             </p>
 
             <ButtonA link='https://github.com/EderPCruz' text='Conecte-se comigo!'/>

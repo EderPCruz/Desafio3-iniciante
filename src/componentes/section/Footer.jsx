@@ -7,13 +7,13 @@ function Footer () {
                     
             <ul>
                 <li>
-                   <a href='https://www.instagram.com/'><FiInstagram size={30}/></a> 
+                   <a href='https://www.instagram.com/ederpaulinodacruz/'><FiInstagram size={30}/></a> 
                 </li>
                 <li>
-                <a href='https://github.com/'><FiGithub size={30}/></a>
+                <a href='https://github.com/EderPCruz'><FiGithub size={30}/></a>
                 </li>
                 <li>
-                    <a href='https://www.linkedin.com/'><FiLinkedin size={30}/></a>
+                    <a href='https://www.linkedin.com/in/%C3%A9der-paulino-da-cruz/'><FiLinkedin size={30}/></a>
                 </li>                
             </ul>
             <p>ederpaulinodacruz@yahoo.com.br</p>
