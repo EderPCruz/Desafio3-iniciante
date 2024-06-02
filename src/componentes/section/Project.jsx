@@ -1,5 +1,5 @@
 import style from './Project.module.css'
-import ButtonB from '../elemernts/ButtonB'
+import ButtonC from '../elemernts/ButtonC'
 import Cards from '../elemernts/Cards'
 import image10 from '../Image/projets/image10.png'
 import image22 from '../Image/projets/image22.png'
@@ -43,7 +43,7 @@ function Project () {
                 description=''
                 repository=''
             /> */}
-            <ButtonB text='Acesse meu repositorio completo' link='https://github.com/EderPCruz'/>
+            <ButtonC text='Acesse meu repositorio completo' link='https://github.com/EderPCruz'/>
         </div>
     )
 }
