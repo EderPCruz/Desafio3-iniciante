@@ -1,0 +1,12 @@
+.rosto{
+   text-align: left;
+   margin-left: 42px;
+   margin-top: 42px;
+}
+
+.rosto img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
