@@ -3,6 +3,7 @@ import ButtonC from '../elemernts/ButtonC'
 import Cards from '../elemernts/Cards'
 import image10 from '../Image/projets/image10.png'
 import image22 from '../Image/projets/image22.png'
+import lampada from '../Image/projets/lampada.png'
 
 function Project () {
     return(
@@ -27,15 +28,15 @@ function Project () {
                 description='Desenvolvimento de uma API'
                 repository='https://github.com/EderPCruz/Desafio2-Iniciante'
             />
-            {/* <Cards
-                img={}
-                site=''
-                title=''
-                tech=''
-                description=''
-                repository=''
-            />
             <Cards
+                img={lampada}
+                site='https://lampadaeder.netlify.app'
+                title='Projeto-Lampada'
+                tech='html, css, javascript'
+                description='Acender, apagar e quebrar a lampada'
+                repository='https://github.com/EderPCruz/Lampada/tree/main'
+            />
+        {/*    <Cards
                 img={}
                 site=''
                 title=''
