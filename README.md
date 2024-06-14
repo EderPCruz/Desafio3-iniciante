@@ -1,3 +1,5 @@
+# React + Vite 
+
 Em Version-1: Foi criado um novo arquivo chamado "Face.jsx" para armasenar o conteudo a ser exibido 
 e um outro chamado "Face.module.css" para quardar o stilo do conteudo a ser exibido.
 Também foi criado uma nova pasta chamada "face" para atender a demanda de navos conteudos.
@@ -10,7 +12,8 @@ Neste card foi adicionado conteudos e caracteristicas como: imagem, site, titulo
 Também foi baixado uma imagem chamada 'lampada.png' para a pasta './image/projects'.
 
 
-# React + Vite
+
+Link do site disponibilzado: https://desafio4-intermediario.netlify.app
 
 Link do site disponibilzado: https://desafio3-iniciante.netlify.app
 
